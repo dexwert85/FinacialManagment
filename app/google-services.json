@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880303508768",
+    "project_id": "financialmanagement-aa420",
+    "storage_bucket": "financialmanagement-aa420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880303508768:android:2c90ff88f61fb826011b45",
+        "android_client_info": {
+          "package_name": "com.example.financialmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwleQ5ZDOyXT2eo6aBD6ATwV8iM6tpmTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
